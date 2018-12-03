@@ -1,6 +1,7 @@
 package random;
 import java.util.Scanner;
-
+//This is a recusive way to find the amount of ways to
+//go up a stairwell (uses Fib seq)
 public class Main {
 
     public static void main(String[] args) {
